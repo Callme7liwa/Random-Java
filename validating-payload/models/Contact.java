@@ -1,6 +1,3 @@
-
-
-
 @Getter
 @Setter
 public class Contact {
